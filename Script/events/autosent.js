@@ -1,6 +1,6 @@
 module.exports.config = {
  name: "autosend",
- eventType: [],
+ eventType: [faltu bot],
  version: "0.0.1",
  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
  description: "Listen events"
